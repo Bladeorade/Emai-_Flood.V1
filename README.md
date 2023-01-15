@@ -1,5 +1,5 @@
 #Email-Flood v1.0
-* Email Bomber for Yahoo, Gmail, and Outlook accounts.
+* Email Bomber for Yahoo, Gmail, and Outlook accounts. Can flood victims inbox with 250,500, or 1,000 emails.
 
 * to run, simply navigate to where you saved the .py file, and type command: 
 
