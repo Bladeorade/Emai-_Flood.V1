@@ -1,4 +1,4 @@
-
+#Email-Flood v1.0
 * Email Bomber for Yahoo, Gmail, and Outlook accounts.
 *to run, simply navigate to where you saved the .py file, and type command: mac & Linux - python3 bomber.py, Windows: python bomber.py
 
